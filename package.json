@@ -1,0 +1,23 @@
+{
+  "name": "202201-w1ex8-albert-dominguez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "sass --watch styles.scss css/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertdc1984/202201-W1EX8-albert-dominguez.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertdc1984/202201-W1EX8-albert-dominguez/issues"
+  },
+  "homepage": "https://github.com/albertdc1984/202201-W1EX8-albert-dominguez#readme",
+  "devDependencies": {
+    "sass": "^1.48.0"
+  }
+}
